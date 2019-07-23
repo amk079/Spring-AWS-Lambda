@@ -2,14 +2,6 @@ An example repository for an article about running Spring Cloud Functions on AWS
 
 The article is available here: https://dzone.com/articles/run-code-with-spring-cloud-function-on-aws-lambda
 
-
-Running Code With Spring Cloud Function on AWS Lambda
-Spring Cloud Function is here! Let's get a simple function working with the serverless titan that is AWS Lambda and API Gateway.
-  by Gyula Lakatos  ·  Jul. 22, 17 · Cloud Zone · Tutorial
-Like (26)
-  Comment (28)  
-Save   Tweet  34.38k Views
-Join the DZone community and get the full member experience. JOIN FOR FREE
 Everybody at my workplace knows quite well that I'm a huge fan of both Spring and AWS. It's hard to disguise when you start to smile with joy every time you read about a new Spring project or an upcoming AWS service.
 
 The last one of these smiling moments came from the release of Spring Cloud Function. It only happened a few days ago, so the experience is super fresh — hopefully not only for me but some of you, too. But if somebody missed it, here is a brief summary of what it is good for.
